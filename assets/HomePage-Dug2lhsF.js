@@ -1,0 +1,1 @@
+import{_ as t,c as n,a as o,o as r}from"./index-DSEVGhsl.js";const l={};function a(c,e){return r(),n("div",null,e[0]||(e[0]=[o("h1",null,"Home",-1),o("p",null,"Welcome to my portfolio.",-1)]))}const m=t(l,[["render",a]]);export{m as default};
