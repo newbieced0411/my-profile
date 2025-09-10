@@ -1,0 +1,1 @@
+import{_ as r,c as l,a as o,o as t}from"./index-Bgilg0_i.js";const a={};function n(s,e){return t(),l("div",null,e[0]||(e[0]=[o("h1",null,"Home",-1),o("p",null,"Welcome to my portfolio.",-1)]))}const m=r(a,[["render",n],["__file","/var/www/html/my-profile/src/views/HomePage.vue"]]);export{m as default};

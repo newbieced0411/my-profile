@@ -1,0 +1,1 @@
+import{_ as t,c as n,a as o,o as a}from"./index-Bgilg0_i.js";const r={};function c(l,e){return a(),n("div",null,e[0]||(e[0]=[o("h1",null,"About",-1),o("p",null,"About me and contact info.",-1)]))}const u=t(r,[["render",c],["__file","/var/www/html/my-profile/src/views/AboutPage.vue"]]);export{u as default};
