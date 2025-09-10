@@ -1,12 +1,12 @@
 <script setup lang="ts">
+import HeaderComponent from './components/HeaderComponent.vue';
+
 
 </script>
 
 <template>
-  <div>
-  </div>
-
-  <!-- <RouterView /> -->
+  <HeaderComponent />
+  <RouterView />
 </template>
 
 <style scoped>
